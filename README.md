@@ -57,26 +57,24 @@ The UK government provides detailed road safety data with respect to injuries, r
   </tr>
 </table>
 
-
-
 ## Aims 
 
 It may sound far-fetched to suggest that certain months, days, or hours could be more dangerous. Hence, the aim of this report is to analyse UK accidents data to give insights into the following questions: 
  
-(a) Are there significant hours of the day, and days of the week, on which accidents occur? |
+(a) Are there significant hours of the day, and days of the week, on which accidents occur? <br>
 (b) For motorbikes, are there significant hours of the day, and days of the week, on which 
-accidents occur? 
+accidents occur? <br>
 (c) For pedestrians involved in accidents, are there significant hours of the day, and days of the 
-week, on which they are more likely to be involved? 
+week, on which they are more likely to be involved? <br>
 (d) What impact, if any, does daylight savings have on road traffic accidents in the week after it 
-starts and stops? 
-(e) What impact, if any, does sunrise and sunset times have on road traffic accidents? 
+starts and stops? <br>
+(e) What impact, if any, does sunrise and sunset times have on road traffic accidents? <br>
 (f) Are there particular types of vehicles (engine capacity, age of vehicle, etc.) that are more 
-frequently involved in road traffic accidents? 
+frequently involved in road traffic accidents? <br>
 (g) Are there particular conditions (weather, geographic location, situations) that generate more 
-road traffic accidents? 
+road traffic accidents? <br>
 (h) How does driver related variables affect the outcome (e.g., age of the driver, and the purpose 
-of the journey)? 
+of the journey)? <br>
 (i) Can we make predictions about when and where accidents will occur, and the severity of the 
 injuries sustained from the data supplied to improve road safety? How well do our models 
-compare to government models? 
+compare to government models? <br>
