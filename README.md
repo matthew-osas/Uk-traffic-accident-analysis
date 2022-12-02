@@ -21,7 +21,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<font color = red>**_Question (c)_**</font>
 
 # UK Traffic Aaccident Aanalysis
 For this analysis we will use the road safety data available from here: http://data.gov.uk/dataset/road-accidents-safety-data
@@ -57,24 +56,24 @@ The UK government provides detailed road safety data with respect to injuries, r
   </tr>
 </table>
 
-## Aims 
+## <font color = red>**Aims**</font>
 
 It may sound far-fetched to suggest that certain months, days, or hours could be more dangerous. Hence, the aim of this report is to analyse UK accidents data to give insights into the following questions: 
  
-* Are there significant hours of the day, and days of the week, on which accidents occur? <br>
-* For motorbikes, are there significant hours of the day, and days of the week, on which 
-accidents occur? <br>
-* For pedestrians involved in accidents, are there significant hours of the day, and days of the 
-week, on which they are more likely to be involved? <br>
-* What impact, if any, does daylight savings have on road traffic accidents in the week after it 
-starts and stops? <br>
-* What impact, if any, does sunrise and sunset times have on road traffic accidents? <br>
-* Are there particular types of vehicles (engine capacity, age of vehicle, etc.) that are more 
-frequently involved in road traffic accidents? <br>
-* Are there particular conditions (weather, geographic location, situations) that generate more 
-road traffic accidents? <br>
-* How does driver related variables affect the outcome (e.g., age of the driver, and the purpose 
-of the journey)? <br>
-* Can we make predictions about when and where accidents will occur, and the severity of the 
+* <font color = orange>Are there significant hours of the day, and days of the week, on which accidents occur?</font> <br>
+* <font color = orange>For motorbikes, are there significant hours of the day, and days of the week, on which 
+accidents occur? </font><br>
+* <font color = orange>For pedestrians involved in accidents, are there significant hours of the day, and days of the 
+week, on which they are more likely to be involved?</font> <br>
+* <font color = orange>What impact, if any, does daylight savings have on road traffic accidents in the week after it 
+starts and stops? </font><br>
+* <font color = orange>What impact, if any, does sunrise and sunset times have on road traffic accidents?</font><br>
+* <font color = orange>Are there particular types of vehicles (engine capacity, age of vehicle, etc.) that are more 
+frequently involved in road traffic accidents? </font><br>
+* <font color = orange>Are there particular conditions (weather, geographic location, situations) that generate more 
+road traffic accidents? </font><br>
+* <font color = orange>How does driver related variables affect the outcome (e.g., age of the driver, and the purpose 
+of the journey)? </font><br>
+* <font color = orange>Can we make predictions about when and where accidents will occur, and the severity of the 
 injuries sustained from the data supplied to improve road safety? How well do our models 
-compare to government models? <br>
+compare to government models? </font><br>
