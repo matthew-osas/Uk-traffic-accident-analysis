@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Analysing Road Traffic Accidents in the UK for the year 2019**
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m also learning **Linux**
 
-- 📫 How to reach me **osadebamwen.matthew@gmail.com**
+- 📫 Email: **osadebamwen.matthew@gmail.com**
 
-- ⚡ Fun fact **I think I'm good at Chess even though I barely win any game nowadays.**
+- ⚡ Fun fact: **I think I'm good at Chess even though I barely win any game nowadays.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -60,20 +60,20 @@ The UK government provides detailed road safety data with respect to injuries, r
 
 It may sound far-fetched to suggest that certain months, days, or hours could be more dangerous. Hence, the aim of this report is to analyse UK accidents data to give insights into the following questions: 
  
-* <font color = orange>Are there significant hours of the day, and days of the week, on which accidents occur?</font> <br>
-* <font color = orange>For motorbikes, are there significant hours of the day, and days of the week, on which 
+* <font color = green>Are there significant hours of the day, and days of the week, on which accidents occur?</font> <br>
+* <font color = green>For motorbikes, are there significant hours of the day, and days of the week, on which 
 accidents occur? </font><br>
-* <font color = orange>For pedestrians involved in accidents, are there significant hours of the day, and days of the 
+* <font color = green>For pedestrians involved in accidents, are there significant hours of the day, and days of the 
 week, on which they are more likely to be involved?</font> <br>
-* <font color = orange>What impact, if any, does daylight savings have on road traffic accidents in the week after it 
+* <font color = green>What impact, if any, does daylight savings have on road traffic accidents in the week after it 
 starts and stops? </font><br>
-* <font color = orange>What impact, if any, does sunrise and sunset times have on road traffic accidents?</font><br>
-* <font color = orange>Are there particular types of vehicles (engine capacity, age of vehicle, etc.) that are more 
+* <font color = green>What impact, if any, does sunrise and sunset times have on road traffic accidents?</font><br>
+* <font color = green>Are there particular types of vehicles (engine capacity, age of vehicle, etc.) that are more 
 frequently involved in road traffic accidents? </font><br>
-* <font color = orange>Are there particular conditions (weather, geographic location, situations) that generate more 
+* <font color = green>Are there particular conditions (weather, geographic location, situations) that generate more 
 road traffic accidents? </font><br>
-* <font color = orange>How does driver related variables affect the outcome (e.g., age of the driver, and the purpose 
+* <font color = green>How does driver related variables affect the outcome (e.g., age of the driver, and the purpose 
 of the journey)? </font><br>
-* <font color = orange>Can we make predictions about when and where accidents will occur, and the severity of the 
+* <font color = green>Can we make predictions about when and where accidents will occur, and the severity of the 
 injuries sustained from the data supplied to improve road safety? How well do our models 
 compare to government models? </font><br>
