@@ -81,3 +81,5 @@ of the journey)? </font><br>
 * <font color = green>Can we make predictions about when and where accidents will occur, and the severity of the 
 injuries sustained from the data supplied to improve road safety? How well do our models 
 compare to government models? </font><br>
+
+Please click on the BigData_&_DataMining.ipynb python note book above to take a look at the detailed analysis.
